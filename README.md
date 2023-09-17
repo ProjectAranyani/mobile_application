@@ -1,16 +1,31 @@
-# project_aranyani_mobile_app
+# Project Aranyani
 
-A new Flutter project.
+## About the repository
+This repository contains the code for the mobile application of Project Aranyani.
 
-## Getting Started
+## How to run the application
+- Clone the repository
+- Run `flutter pub get` to install the dependencies
+- Run `flutter run` to run the application
 
-This project is a starting point for a Flutter application.
+## Introduction
+Project Aranyani that aims to improve the active involement of people in the betterment of the environement.
 
-A few resources to get you started if this is your first Flutter project:
+The mobile application is a platform that helps pople become 'PRO PLANET' by giving them suggestions on how to reduce their carbon footprint and also by rewarding them for their efforts. These awards incude special flora that they can flaunt on their profile and share on social media platforms.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The application maintains a leaderboard of the users based on their carbon footprint and also has a community forum where users can share their ideas and suggestions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- A tree on the home page that grows as the user reduces their carbon footprint
+- Leaderboard
+- Community forum
+- Suggestions to reduce carbon footprint
+- Rewards for reducing carbon footprint
+- Social media sharing
+
+## Technology Stack
+- Flutter
+- Vite
+- Firebase
+- Python
+- Github Pages
