@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "project_aranyani_mobile_app" "\0"
+            VALUE "FileDescription", "sih2023_mobile_application" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "project_aranyani_mobile_app" "\0"
+            VALUE "InternalName", "sih2023_mobile_application" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "project_aranyani_mobile_app.exe" "\0"
-            VALUE "ProductName", "project_aranyani_mobile_app" "\0"
+            VALUE "OriginalFilename", "sih2023_mobile_application.exe" "\0"
+            VALUE "ProductName", "sih2023_mobile_application" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

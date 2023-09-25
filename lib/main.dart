@@ -25,14 +25,16 @@ class MyApp extends StatelessWidget {
               colorScheme: colourScheme(),
               fontFamily: "Montserrat",
               useMaterial3: true,
-              pageTransitionsTheme: const PageTransitionsTheme(
-                builders: <TargetPlatform, PageTransitionsBuilder>{
-                  TargetPlatform.android: OpenUpwardsPageTransitionsBuilder(),
-                  TargetPlatform.iOS: OpenUpwardsPageTransitionsBuilder(),
-                },
-              ),
+              // pageTransitionsTheme: const PageTransitionsTheme(
+              //   builders: <TargetPlatform, PageTransitionsBuilder>{
+              //     TargetPlatform.android: OpenUpwardsPageTransitionsBuilder(),
+              //     TargetPlatform.iOS: OpenUpwardsPageTransitionsBuilder(),
+              //   },
+              // ),
             ),
-            home: const AuthenticationPage(),
+            home: const AuthenticationPage(
+              signIn: true,
+            ),
           );
         },
       ),

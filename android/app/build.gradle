@@ -23,7 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
-    namespace "com.example.project_aranyani_mobile_app"
+    namespace "com.gshivg.project_aranayani"
     compileSdkVersion flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
